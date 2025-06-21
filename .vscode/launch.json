@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Run public_key_bit_sorter",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/public_key_bit_sorter.py",
+      "console": "integratedTerminal"
+    }
+  ]
+}
