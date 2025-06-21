@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment folders
+env/
+venv/
+ENV/
+.venv/
+.ENV/
+
+# IDE / editor folders and settings
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Output directory (generated public key files)
+output/
+*.log
+*.tmp
+
+# System-specific files
+.DS_Store
+Thumbs.db
