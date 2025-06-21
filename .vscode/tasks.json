@@ -1,0 +1,18 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Run public_key_bit_sorter",
+      "type": "shell",
+      "command": "python",
+      "args": [
+        "${workspaceFolder}/public_key_bit_sorter.py"
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "problemMatcher": []
+    }
+  ]
+}
